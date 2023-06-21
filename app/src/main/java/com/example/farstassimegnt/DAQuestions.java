@@ -1,9 +1,9 @@
 package com.example.farstassimegnt;
 
 import java.util.ArrayList;
-import java.util.List;
+
 public class DAQuestions {
-   private ArrayList<Questions> questionsList = new ArrayList<>();
+    private ArrayList<Questions> questionsList = new ArrayList<>();
 
     public DAQuestions() {
         questionsList.add(new Questions("Fe", 26));
